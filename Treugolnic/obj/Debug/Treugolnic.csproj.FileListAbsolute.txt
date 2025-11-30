@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\второй курс инфа\Treugolnic\bin\Debug\Treugolnic.exe.config
+C:\Users\DELL\Documents\второй курс инфа\Treugolnic\bin\Debug\Treugolnic.exe
+C:\Users\DELL\Documents\второй курс инфа\Treugolnic\bin\Debug\Treugolnic.pdb
+C:\Users\DELL\Documents\второй курс инфа\Treugolnic\obj\Debug\Treugolnic.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\второй курс инфа\Treugolnic\obj\Debug\Treugolnic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\второй курс инфа\Treugolnic\obj\Debug\Treugolnic.exe
+C:\Users\DELL\Documents\второй курс инфа\Treugolnic\obj\Debug\Treugolnic.pdb
