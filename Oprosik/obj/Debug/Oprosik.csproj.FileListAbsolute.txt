@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\второй курс инфа\Oprosik\bin\Debug\Oprosik.exe.config
+C:\Users\DELL\Documents\второй курс инфа\Oprosik\bin\Debug\Oprosik.exe
+C:\Users\DELL\Documents\второй курс инфа\Oprosik\bin\Debug\Oprosik.pdb
+C:\Users\DELL\Documents\второй курс инфа\Oprosik\obj\Debug\Oprosik.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\второй курс инфа\Oprosik\obj\Debug\Oprosik.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\второй курс инфа\Oprosik\obj\Debug\Oprosik.exe
+C:\Users\DELL\Documents\второй курс инфа\Oprosik\obj\Debug\Oprosik.pdb
