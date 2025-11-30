@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\второй курс инфа\CPU\bin\Debug\CPU.exe.config
+C:\Users\DELL\Documents\второй курс инфа\CPU\bin\Debug\CPU.exe
+C:\Users\DELL\Documents\второй курс инфа\CPU\bin\Debug\CPU.pdb
+C:\Users\DELL\Documents\второй курс инфа\CPU\obj\Debug\CPU.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\второй курс инфа\CPU\obj\Debug\CPU.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\второй курс инфа\CPU\obj\Debug\CPU.exe
+C:\Users\DELL\Documents\второй курс инфа\CPU\obj\Debug\CPU.pdb
