@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\второй курс инфа\Coren_iz_proizved\bin\Debug\Coren_iz_proizved.exe.config
+C:\Users\DELL\Documents\второй курс инфа\Coren_iz_proizved\bin\Debug\Coren_iz_proizved.exe
+C:\Users\DELL\Documents\второй курс инфа\Coren_iz_proizved\bin\Debug\Coren_iz_proizved.pdb
+C:\Users\DELL\Documents\второй курс инфа\Coren_iz_proizved\obj\Debug\Coren_iz_proizved.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\второй курс инфа\Coren_iz_proizved\obj\Debug\Coren_iz_proizved.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\второй курс инфа\Coren_iz_proizved\obj\Debug\Coren_iz_proizved.exe
+C:\Users\DELL\Documents\второй курс инфа\Coren_iz_proizved\obj\Debug\Coren_iz_proizved.pdb
